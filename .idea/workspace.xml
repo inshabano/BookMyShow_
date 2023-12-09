@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58c53521-01e9-4469-9174-39751bbfa632" name="Changes" comment="file">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/BookmyshowApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/DTOs/BookMovieRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/DTOs/BookMovieResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/DTOs/ResponseStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/DTOs/signUpRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/DTOs/signUpResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/Actor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/BaseModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/Booking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/BookingStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/Feature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/Language.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/PaymentProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/PaymentStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/Region.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/Seat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/SeatType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/Show.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/ShowSeat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/ShowSeatStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/ShowSeatType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/Theatre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Repositories/BookingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Repositories/MovieRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Repositories/RegionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Repositories/ScreenRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Repositories/SeatRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Repositories/SeatTypeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Repositories/ShowRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Repositories/ShowSeatRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Repositories/ShowSeatTypeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Repositories/TheatreRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/Repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/controllers/BookingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/services/AmountCalculatorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/services/BookingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/services/InitService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insha/Bookmyshow/services/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/insha/Bookmyshow/BookmyshowApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../Program Files/maven/apache-maven-3.8.8" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="2ZIXVlCINoFqOdlqhYoMTPoPDhu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/91881/Desktop/java program/BookMyShow",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58c53521-01e9-4469-9174-39751bbfa632" name="Changes" comment="" />
+      <created>1702110594631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702110594631</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Service">
+      <created>1702111940292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702111940292</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Controller">
+      <created>1702111988968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702111988968</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Repo">
+      <created>1702112144047</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702112144047</updated>
+    </task>
+    <task id="LOCAL-00004" summary="maven">
+      <created>1702112191475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702112191475</updated>
+    </task>
+    <task id="LOCAL-00005" summary="model">
+      <created>1702112346114</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702112346114</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Dtos">
+      <created>1702112393243</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702112393243</updated>
+    </task>
+    <task id="LOCAL-00007" summary="resource">
+      <created>1702112413532</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702112413532</updated>
+    </task>
+    <task id="LOCAL-00008" summary="BMStest">
+      <created>1702112445042</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702112445042</updated>
+    </task>
+    <task id="LOCAL-00009" summary="BMS">
+      <created>1702112460354</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702112460354</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Repo">
+      <created>1702112481053</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702112481053</updated>
+    </task>
+    <task id="LOCAL-00011" summary="dependency">
+      <created>1702112555153</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702112555153</updated>
+    </task>
+    <task id="LOCAL-00012" summary="file">
+      <created>1702112607743</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702112607743</updated>
+    </task>
+    <task id="LOCAL-00013" summary="file">
+      <created>1702112717438</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1702112717438</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Service" />
+    <MESSAGE value="Controller" />
+    <MESSAGE value="maven" />
+    <MESSAGE value="model" />
+    <MESSAGE value="Dtos" />
+    <MESSAGE value="resource" />
+    <MESSAGE value="BMStest" />
+    <MESSAGE value="BMS" />
+    <MESSAGE value="Repo" />
+    <MESSAGE value="dependency" />
+    <MESSAGE value="file" />
+    <option name="LAST_COMMIT_MESSAGE" value="file" />
+  </component>
+</project>
